@@ -1,0 +1,8 @@
+#bg-flappyBird {
+  display: none;
+}
+#flappyBird {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
