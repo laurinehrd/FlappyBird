@@ -16,7 +16,7 @@ function dessinemoi () {
   ground.src = "images/ground.png";
 
 // some variables
-  var gap = 100;
+  var gap = 120;
   var constant = pipeTop.height+gap;
   var birdY = 150;
   var birdX = 100;
